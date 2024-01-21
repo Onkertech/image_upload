@@ -31,6 +31,8 @@ class MainActivity : ComponentActivity() {
         imageUri=it!!
         imgView.setImageURI(it)
 
+        //second commit
+
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
